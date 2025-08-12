@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_2025"
+  site-url: "https://joseeguizportillo.github.io/nbdev_2025"
+  description: "mi_primer_repositorio"
+  repo-branch: main
+  repo-url: "https://github.com/joseeguizportillo/nbdev_2025"
